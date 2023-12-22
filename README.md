@@ -33,12 +33,14 @@ O bot é configurável, com o comando /ticketconfig você pode configurar a cate
 
 ![](https://i.imgur.com/tvXTWlX.png)
 
-## 👀 Considerações finais
-O bot pode conter bug's, caso você queira contribuir com a resolução deles, ou a expansão do bot como um todo, crie um pull request.
-
 ![](https://i.imgur.com/0G39Ji6.png)
 
 ### **Comandos**
 
 - /ticket - Abre um ticket.
 - /ticketconfig - Abre o menu de configurações NeoTicket (Admin).
+
+<br>
+
+## 👀 Considerações finais
+O bot pode conter bug's, caso você queira contribuir com a resolução deles, ou a expansão do bot como um todo, crie um pull request.
