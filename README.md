@@ -16,7 +16,7 @@ Um simples e configurável bot de tickets para discord.
 
 ## 🚀 Instalação
 
-Você pode usar o bot da seguinte forma:
+Você pode usar e instalar o bot da seguinte forma:
 
 - Baixe todos os arquivos e abra o projeto em um IDE, após isso abra o terminal e use:
 
