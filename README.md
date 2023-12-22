@@ -23,7 +23,8 @@ Você pode usar o bot da seguinte forma:
 ```py
 pip install -r requirements.txt
 ```
-- Logo após, altere o "token" para o token da sua aplicação no arquivo principal (main).
+- Altere o "token" para o token da sua aplicação no arquivo principal (main).
+- Dê o valor das váriaveis "serverid" que se encontram em cogs/tickets.py e cogs/configs.py com o ID do seu servidor.
   
 <br>
 
