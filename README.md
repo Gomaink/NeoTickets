@@ -29,7 +29,7 @@ pip install -r requirements.txt
 <br>
 
 ## ☕ Documentação
-O bot é completamente configurável, com o comando /ticketconfig você pode configurar a categoria em que os tickets serão criados, e o canal que o usuário poderá criar os tickets.
+O bot é configurável, com o comando /ticketconfig você pode configurar a categoria em que os tickets serão criados, e o canal que o usuário poderá criar os tickets.
 
 ![](https://i.imgur.com/tvXTWlX.png)
 
