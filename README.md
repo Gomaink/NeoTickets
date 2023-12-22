@@ -5,6 +5,9 @@ Um simples e configurável bot de tickets para discord.
 
 ![](https://i.imgur.com/GJ1MovT.png)
 
+<br>
+
+# Sumário
 1. [Instalação](#-Instalação)
 
 2. [Documentação](#-Documentação)
@@ -21,6 +24,8 @@ Você pode usar o bot da seguinte forma:
 pip install -r requirements.txt
 ```
 - Logo após, altere o "token" para o token da sua aplicação no arquivo principal (main).
+  
+<br>
 
 ## ☕ Documentação
 O bot é completamente configurável, com o comando /ticketconfig você pode configurar a categoria em que os tickets serão criados, e o canal que o usuário poderá criar os tickets.
